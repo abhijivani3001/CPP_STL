@@ -16,7 +16,7 @@ int main(){
     }
     cout<<endl;
     sort(v.begin(),v.end()); 
-    // It will sort elements by first index. If first more than one value of first index is same then sort by second index
+    // It will sort elements by first element. If more than one value of first value of pair is same then sort by second value of pair
     for(int i=0;i<n;i++){
         cout<<v[i].first<<" "<<v[i].second<<endl;
     }
