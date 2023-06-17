@@ -1,4 +1,4 @@
-# C++ STL (Standard Template Library) Repo
+# C++ STL (Standard Template Library)
 
 This repository contains examples, explanations, and implementations of various components and features of the C++ Standard Template Library (STL). The STL is a powerful set of C++ libraries that provides generic algorithms and data structures, greatly enhancing the productivity and efficiency of C++ programming.
 
